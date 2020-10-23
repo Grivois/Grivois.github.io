@@ -3,9 +3,9 @@ title: Grivois # your name (or website title) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   A portfolio
   <br><br>
-  <a href="https://www.grivois.github.io/Projects.md">Projects</a>
+  <a href="https://grivois.github.io/Projects.md">Projects</a>
   <br><br>
-  <a href="https://www.grivois.github.io/About.md">About</a>
+  <a href="https://grivois.github.io/About.md">About</a>
   
 theme: jekyll-theme-dinky
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
