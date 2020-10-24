@@ -7,9 +7,9 @@
 
 ### Python Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+* <a href="https://github.com/Grivois/Bibliomancy">Bibliomancy</a>
+* <a href="https://github.com/Grivois/Vocabulary-Builder">Vocabulary-Builder</a>
+* <a href="https://github.com/Grivois/Measuring-Random">Measuring-Random</a>
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
